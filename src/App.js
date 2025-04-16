@@ -4,7 +4,7 @@ import { useEffect } from 'react';
 function App() {
   const value = 'World';
   
-  return <div>Hello {value}</div>;
+  return <div>Hey {value}</div>;
 }
 
 export default App;
